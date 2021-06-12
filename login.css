@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: wheat;
+    text-align: center;
+}
+
+h1 {
+    font-family: cursive;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.from {
+    width: 300px;
+    height: 50;
+    margin: 30px;
+    background-color: darkviolet;
+    margin-right: 200px;
+    margin-right: 200px;
+}
