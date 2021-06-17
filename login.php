@@ -23,7 +23,7 @@
             Login 
         </button>
         <button>
-        <a href="Ir a registro">ir a registro</a></button>
+        <a href="entrada.php">ir a registro</a></button>
     </form>
 </body>
 
