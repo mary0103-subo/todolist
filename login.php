@@ -14,16 +14,16 @@
     <h1>Login</h1>
     <form action="">
         <p>usuario</p>
-        <input type="text" name="Usuario" placeholder="ingrese ususario">
+        <input type="text" name="hola" placeholder="Ingrese usuario">
         <p>contraceña</p>
-        <input type="password" name="Contraceña" placeholder="ingrese contraceña">
+        <input type="password" name="Contraseña" placeholder="Ingrese contraseña">
         <br>
         <br>
         <button>
-            ingresar
+            Login 
         </button>
         <button>
-        <a href="ir a registro">ir a registro</a></button>
+        <a href="Ir a registro">ir a registro</a></button>
     </form>
 </body>
 
