@@ -7,7 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-<center><h1>Listado de tareas de Domingo Gallardo</h1></center>
+<center><h1>Listado de tareas de Domingo Gallardo</h1>
+
 <table>
 <tr>
 <td><strong>Id</strong></td>
@@ -17,9 +18,13 @@
 <tr>
 <td><strong>1</strong></td>
 <td><strong>Lavar coche</strong></td>
-<td><strong></strong></td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td><strong>renovar DNi</strong></td>
+<td><strong>pasar la ITV</strong></td>
 </tr>
 </table>
-    
+   </center> 
 </body>
 </html>
