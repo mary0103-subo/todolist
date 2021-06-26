@@ -19,11 +19,10 @@
         <input type="password" name="Contraseña" placeholder="Ingrese contraseña">
         <br>
         <br>
-        <button>
-            Login 
+        <a href="entrada.php"> Login  </a>     
         </button>
         <button>
-        <a href="entrada.php">ir a registro</a></button>
+        <a href=" ">Ir a registro</a></button>
     </form>
 </body>
 
