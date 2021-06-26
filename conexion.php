@@ -1,11 +1,3 @@
 <?php 
-function conectar(){
-    $user="root";
-    $pass="";
-    $_SERVER="localhost";
-    $db="pruyectophp";
-    $com=mysql_connect ()
-}
-
-
+$conexion= mysql_connect("localhost","root",12456,"listado");
 ?>

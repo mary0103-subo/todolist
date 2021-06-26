@@ -9,22 +9,42 @@
 <body>
 <center><h1>Listado de tareas de Domingo Gallardo</h1>
 
-<table>
-<tr>
+<table border="1" >
+<tr >
 <td><strong>Id</strong></td>
+<TD></TD>
 <td><strong>Tarea</strong></td>
+<TD></TD>
+<TD></TD>
 <td><strong>Accion</strong></td>
 </tr>
 <tr>
 <td><strong>1</strong></td>
+<TD></TD>
 <td><strong>Lavar coche</strong></td>
+<TD></TD>
+<td></td>
+<td><button>Editar</button> <button>Borrar</button></td>
 </tr>
 <tr>
 <td><strong>2</strong></td>
+<td></td>
 <td><strong>renovar DNi</strong></td>
-<td><strong>pasar la ITV</strong></td>
+<td></td>
+<td></td>
+<td><button>Editar</button><button>Borrar</button></td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td></td>
+<td><strong>pasar ITV</strong></td>
+<td></td>
+<td></td>
+<td><button>Editar</button><button>Borrar</button></td>
+
 </tr>
 </table>
+
    </center> 
 </body>
 </html>
