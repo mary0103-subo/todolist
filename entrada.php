@@ -48,7 +48,7 @@
 
 </tr>
 </table>
-<button>Nueva Tarea</button>  <button><a href="salida.php">Salida</a></button>
+<button>Nueva tarea</button>  <button><a href="salida.php">Salida</a></button>
 
    </center> 
 </body>
