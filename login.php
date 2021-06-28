@@ -19,9 +19,9 @@
    <label >Usuario</label> 
    <input type="text" id="input-usuario" placehoder="201615146h@utea.edu.pe" autocomplete="off"> 
      <label >Contraseña</label> 
-     <input type="password" id="input-clave" placehoder="********"> 
-   <button type="submit" class="button"><a  href="entrada.php">Login</a></button> <br>
-   <button><a href="">Registrar registro</a></button>
+     <input type="password" id="input-clave" placehoder="********"> <br>
+   <a  href="entrada.php">Login</a>
+   <a href="conexion.php">Ir registro</a>
    </form>
   
   
