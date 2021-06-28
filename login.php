@@ -15,13 +15,13 @@
   <div class"login" >
       <center><h1>Login</h1></center>
    <img src="im.gif" id='pokemon'alt="">
-   <form class="formulario">
+   <form class="formulario" action='validar.php' method='POST'>
    <label >Usuario</label> 
-   <input type="text" id="input-usuario" placehoder="201615146h@utea.edu.pe" autocomplete="off"> 
+   <input type="text" id="input-usuario" name="email" placehoder="201615146h@utea.edu.pe" autocomplete="off"> 
      <label >Contraseña</label> 
-     <input type="password" id="input-clave" placehoder="********"> <br>
-   <a  href="entrada.php">Login</a>
-   <a href="conexion.php">Ir registro</a>
+     <input type="password" id="input-clave" name="contraseña" placehoder="********"> <br>
+  <button type='submit' > login </button> 
+  <a href="registro.php">Ir registro</a>
    </form>
   
   
