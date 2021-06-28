@@ -20,7 +20,9 @@
    <input type="text" id="input-usuario" name="email" placehoder="201615146h@utea.edu.pe" autocomplete="off"> 
      <label >Contraseña</label> 
      <input type="password" id="input-clave" name="contraseña" placehoder="********"> <br>
-  <button type='submit' > login </button> 
+   <center><button type='submit' > login </button></center> 
+    <br>
+  
   <a href="registro.php">Ir registro</a>
    </form>
   

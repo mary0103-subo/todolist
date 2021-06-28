@@ -1,6 +1,6 @@
 <?php
 include 'conexion.php';
-//$usuario=$_POST["usuario"];
+
 $email=$_POST['email'];
 $contraseña=$_POST['contraseña'];
 
@@ -10,7 +10,7 @@ $resultado=mysqli_query($conexion,$insertar);
 
 if(!$resultado){
     header("location:registro.php");
-    echo"usuario no regisstrado";
+    echo"usuario no registrado";
 
 
 }else{
