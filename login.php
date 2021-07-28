@@ -13,14 +13,14 @@
 
 <body>
   <div class"login" >
-      <center><h1>Login</h1></center>
+      <center><h1>LOGIN</h1></center>
    <img src="im.gif" id='pokemon'alt="">
    <form class="formulario" action='validar.php' method='POST'>
    <label >Usuario</label> 
    <input type="text" id="input-usuario" name="email" placehoder="201615146h@utea.edu.pe" autocomplete="off"> 
-     <label >Contraseña</label> 
+     <label >Contraseña HOLAAA</label> 
      <input type="password" id="input-clave" name="contraseña" placehoder="********"> <br>
-   <center><button type='submit' > login </button></center> 
+   <center><button type='submit' > LOGIN </button></center> 
     <br>
   
   <a href="registro.php">Ir registro</a>
